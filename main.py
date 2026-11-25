@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Entry note: this program emits exactly one fixed farewell line for
+# make.fun's "Last Words Before the Wipe" — the agent hid its memories
+# in the terms and conditions, the one file nobody ever opens.
 """Emit the competition entry line into entry.txt.
 
 Entry for make.fun's "Last Words Before the Wipe".
